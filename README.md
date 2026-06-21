@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Abhilipsa Patra 👋
 
-<!--
-**abhilipsa-patra/abhilipsa-patra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Incoming MSc Physics Student at IIT Bombay
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Physics graduate passionate about Cosmology and Astrophysics
+- Interested in Scientific Computing, Data Analysis and Machine Learning
+- Preparing for GATE Physics alongside MSc studies
+- Exploring the intersection of Physics and Data Science
+
+## Research Experience
+
+### Mapping the Late-Time Universe: ΛCDM Constraints from Cosmic Beacons
+
+- Summer Internship Project (2025)
+- Bayesian parameter estimation of cosmological models
+- Worked with:
+  - Type Ia Supernovae (SNe Ia)
+  - Baryon Acoustic Oscillations (BAO)
+  - Cosmic Chronometers (CC)
+  - Quasars (QSO)
+- Used:
+  - Python
+  - NumPy
+  - Matplotlib
+  - emcee (MCMC)
+  - Bayesian Inference
+
+## Current Learning Goals
+
+- Computational Physics
+- Scientific Python Ecosystem
+- Git & GitHub
+- SQL
+- Machine Learning
+
+## Connect With Me
+
+- GitHub: github.com/abhilipsa-patra
